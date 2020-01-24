@@ -1,0 +1,11 @@
+body{
+  background-color: #f1f9f9;
+}
+.form_heading{
+  color: white;
+padding-left: 70px;
+}
+.form_heading_background{
+  background-color: green;
+  padding-left: 200px;
+}
